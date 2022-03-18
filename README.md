@@ -1,7 +1,7 @@
 # Deadmanswitch
 ## A Dead Man Switch for Linux
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 A dead man switch is a mechanism (digital or physical) that triggers when the user fails to perform an action.
 
