@@ -29,3 +29,7 @@ Unpack the files into any folder. Give all the files Read, Write, Execute permis
 
 GPL v3
 
+## Screenshots
+
+![Alt text](/screenshots/1.jpg?raw=true "Welcome Screen")
+
