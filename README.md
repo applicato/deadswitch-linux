@@ -31,5 +31,5 @@ GPL v3
 
 ## Screenshots
 
-![Alt text](/screenshots/1.jpg?raw=true "Welcome Screen")
+![Alt text](/https://github.com/dimensionc132/screenshots/blob/main/1.jpg?raw=true "Welcome Screen")
 
