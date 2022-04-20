@@ -29,7 +29,13 @@ Unpack the files into any folder. Give all the files Read, Write, Execute permis
 
 GPL v3
 
+You may copy, distribute and modify the software as long as you track changes/dates in source files. Any modifications to or software including (via compiler) GPL-licensed code must also be made available under the GPL along with build & install instructions.
+
 ## Screenshots
 
-![My Image](screenshots/1.jpg)
+![Welcome Screen](https://raw.githubusercontent.com/dimensionc132/screenshots/main/1.jpg)
+
+![Setup Screen](https://raw.githubusercontent.com/dimensionc132/screenshots/main/2.jpg)
+
+![Setup Screen](https://raw.githubusercontent.com/dimensionc132/screenshots/main/3.jpg)
 
