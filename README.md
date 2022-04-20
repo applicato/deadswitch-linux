@@ -31,5 +31,5 @@ GPL v3
 
 ## Screenshots
 
-![Welcome Screen](/screenshots/1.jpg)
+<img src="/screenshots/1.jpg">
 
