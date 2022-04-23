@@ -1,7 +1,7 @@
 # Dead Switch
 ## A Dead Man Switch for Linux
 
-
+![passing](https://img.shields.io/badge/cli-passing-brightgreen)  ![platform](https://img.shields.io/badge/platform-linux--64-lightgrey)
 
 A dead man switch (DMS) is a mechanism (digital or physical) that triggers when the user fails to perform an action.
 
