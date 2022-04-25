@@ -85,4 +85,4 @@ while (count < 3):
 
 print("Failed to verify Dead Switch. Email will be sent now.")
 time.sleep(3)
-exec(open("sendemail.py").read())
+exec(open("emailsend.py").read())
