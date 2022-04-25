@@ -25,6 +25,10 @@ There are no other known dependencies for this program.
 
 Unpack the files into any folder. Give all the files Read, Write, Execute permissions and run ./start.sh to start the setup. 
 
+## Setup
+
+One thing to note during the setup process. You will be asked if you want to add an attachment to your email. If you choose YES, and you enter the URL of the file eg: /home/john/file.zip be sure to write in your email message the type of file it is. For some reason, the attachment type is stripped and thus unidentifiable. So file.zip just ends up showing as 'file'. If your recipient downloads the file, but doesn't know the type, it won't help. So just mention in your message, that you are attaching file.zip and that the file needs to be renamed as a zip as per out example. 
+
 ## License
 
 GPL v3
