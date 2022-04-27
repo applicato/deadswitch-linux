@@ -19,7 +19,7 @@ Dead Switch will check-in at a specified interval chosen by you, whether you sti
 
 ## Installation
 
-Deadmanswitch requires [Python](https://www.python.org/) v3.8+ to run which should come pre-installed on the latest version of Debian based distros such as Ubuntu. The app uses BASH, but I think it would work with other shells like ZSH. 
+Dead Switch requires [Python](https://www.python.org/) v3.8+ to run which should come pre-installed on the latest version of Debian based distros such as Ubuntu and Arch based distros, but check. if not, install. The app also BASH, I coded this with GNU bash, version 5.1.4(1) but I think it would work with lesser versions as well as other shells like ZSH. 
 
 There are no other known dependencies for this program. 
 
@@ -27,7 +27,7 @@ Unpack the files into any folder. Give all the files Read, Write, Execute permis
 
 ## Setup
 
-One thing to note during the setup process. You will be asked if you want to add an attachment to your email. If you choose YES, and you enter the URL of the file eg: /home/john/file.zip be sure to write in your email message the type of file it is. For some reason, the attachment type is stripped and thus unidentifiable. So file.zip just ends up showing as 'file'. If your recipient downloads the file, but doesn't know the type, it won't help. So just mention in your message, that you are attaching file.zip and that the file needs to be renamed as a zip as per our example. 
+One thing to note during the setup process. You will be asked if you want to add an attachment to your email. If you choose YES, and you enter the URL of the file eg: /home/john/file.zip be sure to write in your email message that you have added an attachment as well as the name and file type. For some reason, the attachment name and type is stripped by the Python MIMEmultipart code and thus unidentifiable, but the integrity of the file is not compromised. So write that you have attached file.zip and that after your recipient downloads it, to rename it as file.zip.
 
 ## License
 
