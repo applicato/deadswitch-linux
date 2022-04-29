@@ -6,6 +6,7 @@ clear
 rm emaildata.json
 rm timedata.json
 rm .dapytrom
+rm mortypad.json
 rm output.txt
 echo "$(tput setaf 1)"
 echo "██████╗ ███████╗ █████╗ ██████╗ ███████╗██╗    ██╗██╗████████╗ ██████╗██╗  ██╗"
