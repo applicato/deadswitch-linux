@@ -23,11 +23,15 @@ Dead Switch requires [Python](https://www.python.org/) v3.8+ to run which should
 
 There are no other known dependencies for this program. 
 
-Unpack the files into any folder. Give all the files Read, Write, Execute permissions and run ./start.sh to start the setup. 
+Unpack the files into any folder. Give all the files Read, Write, Execute permissions and run ./start.sh to start the setup. After the setup process has finished, you will need to have start.sh run automatically, either by using Cron or with Startup Applications. My personal way, is I have an init.sh script in Startup Apps, which opens xterm running the start.sh script. 
 
 ## Setup
 
 One thing to note during the setup process. You will be asked if you want to add an attachment to your email. If you choose YES, and you enter the URL of the file eg: /home/john/file.zip be sure to write in your email message that you have added an attachment as well as the name and file type. For some reason, the attachment name and type is stripped by the Python MIMEmultipart code and thus unidentifiable, but the integrity of the file is not compromised. So write that you have attached file.zip and that after your recipient downloads it, to rename it as file.zip.
+
+## Reset
+
+There is a file called reset.sh which does exactly as its name implies; it resets Dead Switch back to default. You can use this anytime, in case you make a mistake during the setup or for another reason. If you have run Dead Switch setup once, you will need to download or copy, the output.txt file from the repo and place it in the Dead Switch folder, this is because the output.txt file has been compromized during the setup process. 
 
 ## License
 
