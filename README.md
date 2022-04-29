@@ -33,6 +33,8 @@ One thing to note during the setup process. You will be asked if you want to add
 
 There is a file called reset.sh which does exactly as its name implies; it resets Dead Switch back to default. You can use this anytime, in case you make a mistake during the setup or for another reason. If you have run Dead Switch setup once, you will need to download or copy, the output.txt file from the repo and place it in the Dead Switch folder, this is because the output.txt file has been compromized during the setup process. 
 
+Reset will also be called after the email message has been sent in the even of Dead Switch being triggered. (currently writing this feature)
+
 ## License
 
 GPL v3
