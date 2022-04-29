@@ -32,6 +32,8 @@ echo "or"
 echo ""
 echo "CODEBERG --> https://codeberg.org/dimensionc132 DeadManSwitch repository." | fold -sw 80
 echo ""
+echo "After you have downloaded output.txt and copied it into the Dead Switch directory, run ./start.sh" | fold -sw 80
+echo ""
 echo "$(tput setaf 3)Thank you for using Dead Switch. Goodbye"
 sleep 30
 clear
