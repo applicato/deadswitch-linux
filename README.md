@@ -49,3 +49,5 @@ You may copy, distribute and modify the software as long as you track changes/da
 
 ![Setup Screen](https://raw.githubusercontent.com/dimensionc132/screenshots/main/3.jpg)
 
+![Setup Screen](https://raw.githubusercontent.com/dimensionc132/screenshots/main/4.jpg)
+
