@@ -35,6 +35,11 @@ There is a file called reset.sh which does exactly as its name implies; it reset
 
 Reset will also be called after the email message has been sent in the even of Dead Switch being triggered.
 
+## Note: Dead Switch is a work in progress
+
+This project is a work in progress and may not work correctly (if at all). It is made available for those who would like to try it anwyay. Please report any issues in the [issue
+tracker](https://github.com/dimensionc132/deadswitch/issues).
+
 ## License
 
 GPL v3
