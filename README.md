@@ -40,6 +40,10 @@ Reset will also be called after the email message has been sent in the even of D
 This project is a work in progress and may not work correctly (if at all). It is made available for those who would like to try it anwyay. Please report any issues in the [issue
 tracker](https://github.com/dimensionc132/deadswitch/issues).
 
+## Get the Latest Release
+
+Download the [latest release](https://github.com/dimensionc132/deadswitch/releases)
+
 ## License
 
 GPL v3
