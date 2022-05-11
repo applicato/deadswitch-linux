@@ -3,7 +3,7 @@
 
 ![platform](https://img.shields.io/badge/platform-linux--64-lightgrey) ![passing](https://img.shields.io/badge/cli-passing-brightgreen) ![python](https://img.shields.io/badge/php-%3E%3D3.8-blue)
 
-A dead man switch (DMS) is a mechanism (digital or physical) that triggers when the user fails to perform an action.
+A Dead Man Switch (DMS) is a mechanism (digital or physical) that triggers when the user fails to perform an action.
 
 Dead Switch is a security application designed protect your data in case you are threatened by violence from people, organizations, government agencies. or you just want to have a secure way to send data in case something unexpected happens to you. It is a safeguard for your data, that if such a scenario were to occur, an email will be sent with your data to a specified person/s for safekeeping. 
 
@@ -15,7 +15,7 @@ Dead Switch will check-in at a specified interval chosen by you, whether you sti
 - written in Bash and Python
 - attach a file to your email
 - location agnostic; all files contained in one folder
-- simple to use
+- simple to setup and use
 
 ## Installation
 
@@ -35,7 +35,7 @@ There is a file called reset.sh which does exactly as its name implies; it reset
 
 Reset will also be called after the email message has been sent in the even of Dead Switch being triggered.
 
-## Note: Dead Switch is a work in progress
+## Note: Dead Switch is a work in progress. Check for updated versions
 
 This project is a work in progress and may not work correctly (if at all). It is made available for those who would like to try it anwyay. Please report any issues in the [issue
 tracker](https://github.com/dimensionc132/deadswitch/issues).
