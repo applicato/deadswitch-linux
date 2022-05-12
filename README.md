@@ -17,6 +17,17 @@ Dead Switch will check-in at a specified interval chosen by you, whether you sti
 - location agnostic; all files contained in one folder
 - simple to setup and use
 
+## Use Cases
+
+In almost all of these hypothetical cases, the main impetus to use Dead Switch is if your life is somehow in danger or you have been threatened by bad actors through various malicious means. 
+
+- if you are terminally ill and want to ensure that a last personalized letter is sent out
+- you are afraid of some nefarious people and are using this email/attachment as a guarantee to 'stay alive'
+- sending an encryption key to a trusted person who has a copy of your data in case something happens to you
+- a safeguard for your personal assets, whose details are sent to a trusted person, in case something happens to you
+- just for fun you just want to play with it
+- other reasons
+
 ## Installation
 
 Dead Switch requires [Python](https://www.python.org/) v3.8+ to run which should come pre-installed on the latest version of Debian based distros such as Ubuntu and Arch based distros, but check. if not, install. The app also BASH, I coded this with GNU bash, version 5.1.4(1) but I think it would work with lesser versions as well as other shells like ZSH. 
