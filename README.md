@@ -63,11 +63,11 @@ You may copy, distribute and modify the software as long as you track changes/da
 
 ## Screenshots
 
-![Welcome Screen](https://raw.githubusercontent.com/dimensionc132/screenshots/main/1.jpg)
+![Welcome Screen](https://raw.githubusercontent.com/dimensionc132/images/main/1.jpg)
 
-![Setup Screen](https://raw.githubusercontent.com/dimensionc132/screenshots/main/2.jpg)
+![Setup Screen](https://raw.githubusercontent.com/dimensionc132/images/main/2.jpg)
 
-![Setup Screen](https://raw.githubusercontent.com/dimensionc132/screenshots/main/3.jpg)
+![Setup Screen](https://raw.githubusercontent.com/dimensionc132/images/main/3.jpg)
 
-![Setup Screen](https://raw.githubusercontent.com/dimensionc132/screenshots/main/4.jpg)
+![Setup Screen](https://raw.githubusercontent.com/dimensionc132/images/main/4.jpg)
 
