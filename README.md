@@ -7,6 +7,8 @@ A Dead Man Switch (DMS) is a mechanism (digital or physical) that triggers when 
 
 Dead Switch is a security application designed protect your data in case you are threatened by violence from people, organizations, government agencies. or you just want to have a secure way to send data in case something unexpected happens to you. It is a safeguard for your data, that if such a scenario were to occur, an email will be sent with your data to a specified person/s for safekeeping. 
 
+The most famous use of a Dead Man Switch in recent times was by Edward Snowden who distributed encrypted copies of his secret documents to various trusted people, and then setup a Dead Man Switch to email the encryption key.
+
 Dead Switch will check-in at a specified interval chosen by you, whether you still have access to the machine. If you fail to check-in with the correct password, the email will be sent.
 
 ## Features
