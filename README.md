@@ -19,14 +19,17 @@ Dead Switch will check-in at a specified interval chosen by you, whether you sti
 
 ## Use Cases
 
-In almost all of these hypothetical cases, the main impetus to use Dead Switch is if your life is somehow in danger or you have been threatened by bad actors through various malicious means. 
+In almost all of these use cases, some hypothetical, the main impetus to use an application such as Dead Switch is if your life is somehow in danger and you need to be able to send out a last message to either family or other important people. 
 
+- you can write an addendum to your last will and testament and include bank accounts, real estate or if you have crypto, your private keys to your wallets
 - if you are terminally ill and want to ensure that a last personalized letter is sent out
+- you are going travelling and want to ensure that your location is sent if you do not return by a specified date
 - you are afraid of some nefarious people and are using this email/attachment as a guarantee to 'stay alive'
 - sending an encryption key to a trusted person who has a copy of your data in case something happens to you
 - a safeguard for your personal assets, whose details are sent to a trusted person, in case something happens to you
+- a journalist who is writing a story for publication but that publication could endanger your life, you can set your Dead Switch to publish the report if something happens to you
 - just for fun you just want to play with it
-- other reasons
+- other reasons not stated here
 
 ## Installation
 
@@ -35,6 +38,10 @@ Dead Switch requires [Python](https://www.python.org/) v3.8+ to run which should
 There are no other known dependencies for this program. 
 
 Unpack the files into any folder. Give all the files Read, Write, Execute permissions and run ./start.sh to start the setup. After the setup process has finished, you will need to have start.sh run automatically, either by using Cron or with Startup Applications. My personal way, is I have an init.sh script in Startup Apps, which opens xterm running the start.sh script. 
+
+## Get the Latest Release
+
+Download the [latest release](https://github.com/dimensionc132/deadswitch/releases)
 
 ## Setup
 
@@ -50,10 +57,6 @@ Reset will also be called after the email message has been sent in the even of D
 
 This project is a work in progress and may not work correctly (if at all). It is made available for those who would like to try it anwyay. Please report any issues in the [issue
 tracker](https://github.com/dimensionc132/deadswitch/issues).
-
-## Get the Latest Release
-
-Download the [latest release](https://github.com/dimensionc132/deadswitch/releases)
 
 ## License
 
